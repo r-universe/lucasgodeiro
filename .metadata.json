@@ -1,0 +1,10 @@
+[
+  {
+    "package": "TextForecast",
+    "oncran": true
+  },
+  {
+    "package": "TwitterAutomatedTrading",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TextForecast"]
+	path = TextForecast
+	url = https://github.com/lucasgodeiro/textforecast
+	shallow = true
+	registered = true
+[submodule "TwitterAutomatedTrading"]
+	path = TwitterAutomatedTrading
+	url = https://github.com/lucasgodeiro/twitterautomatedtrading
+	shallow = true
+	registered = true

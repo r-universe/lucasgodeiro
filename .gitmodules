@@ -5,6 +5,3 @@
 [submodule "TextForecast"]
 	path = TextForecast
 	url = https://github.com/lucasgodeiro/textforecast
-[submodule "TwitterAutomatedTrading"]
-	path = TwitterAutomatedTrading
-	url = https://github.com/lucasgodeiro/twitterautomatedtrading
